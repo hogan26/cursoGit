@@ -6,4 +6,5 @@
 //si queremos guardar una copia o una fotografia de ese archivo usamos en comando git commit -m (para añadir un
 //mensaje) "mensaje"
 //para agregar todos los archivos al area temporal usamos el comando git add .
+//cada vez que yo haga un cambio debo mandarlo al area temporal antes de hacer un commit
 
